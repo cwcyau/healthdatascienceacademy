@@ -1,2 +1,1 @@
-# healthdatascienceacademy
-National Academy for Health Data Science
+# The National Academy for Health Data Science
