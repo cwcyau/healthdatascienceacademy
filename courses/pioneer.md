@@ -12,7 +12,7 @@ Duration: XXX
 
 ## Course Description
 
-### Aims 
+### Overview 
 
 ### Intended Learning Outcomes
 
