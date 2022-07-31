@@ -10,7 +10,7 @@ Leader: XXX
 
 Duration: XXX
 
-## Course Description
+## Description
 
 ### Overview 
 
@@ -18,8 +18,10 @@ Duration: XXX
 
 ### Teaching methods
 
-## Course pre-requisites
+## Pre-requisites
 
-## Course Timetable
+## Example Timetable
+
+## Related courses
 
 ## Recommended Reading
