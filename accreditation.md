@@ -28,8 +28,10 @@ Applications will be scored against the following criteria:
 4. Well-formulated evaluation approach
 5. Credible sustainability plan
  
-Numerical scores will be given for each category (0 - No evidence, 1 - Satisfactory, 2 - Good, 3 - Excellent). 
+Numerical scores will be given for each category (0 - No evidence, 1 - Satisfactory, 2 - Good, 3 - Excellent) and comments provided.  
  
 ## What happens next?
+
+After eligibility and reviews, the applicants will be informed of the outcomes of these by the Academy. The applicants will be invited to respond to comments and scores. The response and reviews will then be considered at the next Academy Academic Board meeting.
 
 E-mail: XXX
