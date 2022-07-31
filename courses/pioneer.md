@@ -18,6 +18,8 @@ Duration: XXX
 
 ### Teaching methods
 
+## Course pre-requisites
+
 ## Course Timetable
 
 ## Recommended Reading
