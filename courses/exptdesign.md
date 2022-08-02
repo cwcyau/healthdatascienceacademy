@@ -1,4 +1,4 @@
-# [Course Code] [Course Title]
+# [Course Code] Introduction to experimental methods for health data scientists
 
 ## Basic Information
 
