@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The Academy for Health Data Research is a new initiative that seeks to become a nationally accessible training hub in advanced health data science.
+The **National Academy for Health Data Science** is a new initiative that seeks to become a nationally accessible training hub in advanced health data science.
 
 It is currently being developed by Professors [Iain Styles](https://www.cs.bham.ac.uk/~ibs/) ([University of Birmingham](http://www.birmingham.ac.uk)) and [Christopher Yau](https://www.bdi.ox.ac.uk/Team/christoper-yau) ([Health Data Research UK](http://www.hdruk.ac.uk)/[University of Oxford](http://www.ox.ac.uk)) with initial set-up funding from [Health Data Research UK](http://www.hdruk.ac.uk).
 
