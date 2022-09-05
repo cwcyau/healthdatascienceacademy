@@ -1,4 +1,4 @@
-![National Academy for Health Data Science](nahds.png)
+![National Academy for Health Data Science](images/nahds.png)
 
 ## Purpose
 
@@ -53,3 +53,9 @@ The Academy will focus on supporting the following activities:
 ## Further information
 
 The Academy is currently in development but for further information about how to be involved, contact us: <phd@hdruk.ac.uk>
+
+## Partners
+
+<img src="images/hdruk-logo.png"  width=25% height=25%>
+<img src="images/uob-logo.png"  width=25% height=25%>
+
