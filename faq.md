@@ -40,10 +40,12 @@ The Academy will not be profit-generating and any unanticipated surpluses will b
 
 ## Why the University of Birmingham?
 
-There were a number of reasons that Health Data Research UK chose to work with the University of Birmingham to kickstart this initiative. These are outlined in the following:
+There were a number of reasons that Health Data Research UK chose to work with the University of Birmingham to kickstart this initiative:
 
 1. *Geography* Birmingham is centrally located in the UK and well-connected in terms of transport.
 2. *Cost* Compared to London, it is significantly cheaper to operate events from Birmingham.
 3. *Existing investments* HDR UK has invested in two Research Data Hubs ([INSIGHT](https://www.hdruk.ac.uk/helping-with-health-data/health-data-research-hubs/insight/) and [PIONEER](https://www.hdruk.ac.uk/helping-with-health-data/health-data-research-hubs/pioneer/)) in Birmingham. The Academy will work with the PIONEER Hub to establish one of its first courses on using real-world hospital data.
 4. *Space* [The Institute for Interdisciplinary Data Science and AI](https://www.birmingham.ac.uk/research/data-science/index.aspx), which is directed by Professor Iain Styles, will host events for the Academy where these cannot be offered by course providers.
 5. *Compute* The Tier 2 High-Performance Computing Facility [Baskerville](https://www.baskerville.ac.uk/) is based in Birmingham.
+
+The Academy is looking to work with further partners across the UK to develop this offering.
