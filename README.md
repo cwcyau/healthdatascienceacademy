@@ -4,7 +4,7 @@
 
 The Academy for Health Data Research is a new initiative that seeks to become a nationally accessible training hub in advanced health data science.
 
-It is currently being developed by Professors [Iain Styles](https://www.cs.bham.ac.uk/~ibs/) ([University of Birmingham](http://www.birmingham.ac.uk)) and [Christopher Yau](https://www.bdi.ox.ac.uk/Team/christoper-yau) ([Health Data Research UK](http://www.hdruk.ac.uk)/[University of Oxford](http://www.ox.ac.uk)).
+It is currently being developed by Professors [Iain Styles](https://www.cs.bham.ac.uk/~ibs/) ([University of Birmingham](http://www.birmingham.ac.uk)) and [Christopher Yau](https://www.bdi.ox.ac.uk/Team/christoper-yau) ([Health Data Research UK](http://www.hdruk.ac.uk)/[University of Oxford](http://www.ox.ac.uk)) with initial set-up funding from [Health Data Research UK](http://www.hdruk.ac.uk).
 
 ## Why are you doing this?
 
@@ -88,4 +88,8 @@ EXAMPLE ACADEMY SOLUTION: The Senior Lecturer can refer their student to the Aca
 
 > “The job market is so competitive. I have advertised a postdoc position for a health data scientist three times now but found no suitable applicants that fit the criteria. My Human Resources team have asked me whether I can relax the criteria and expand my search but I cannot recruit someone who doesn’t have experience of public health epidemiology, can I? How will I get them up to speed? I don’t have time to hand-hold them for the next six months.”
 
-EXAMPLE ACADEMY SOLUTION: The health data science job market is highly-competitive and recruiters may need to show flexibility around the experience and skill levels of the individuals they recruit. The Academy could provide an option for recruiters to take on talented individuals who need support in the early parts of their employment. The Academy’s “public health data science” learning pathway would point to a variety of foundational training courses in their areas and then to a virtual library of specialist training advanced materials in epidemiological research methods. It would still be up to you to shape the training of your new postdoc but you wouldn’t feel entirely alone 
+EXAMPLE ACADEMY SOLUTION: The health data science job market is highly-competitive and recruiters may need to show flexibility around the experience and skill levels of the individuals they recruit. The Academy could provide an option for recruiters to take on talented individuals who need support in the early parts of their employment. The Academy’s “public health data science” learning pathway would point to a variety of foundational training courses in their areas and then to a virtual library of specialist training advanced materials in epidemiological research methods. It would still be up to you to shape the training of your new postdoc but you wouldn’t feel entirely alone.
+
+## Further information
+
+The Academy is currently in development but for further information about how to be involved, contact us: <phd@hdruk.ac.uk>
