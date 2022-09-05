@@ -48,4 +48,6 @@ There were a number of reasons that Health Data Research UK chose to work with t
 4. *Space* [The Institute for Interdisciplinary Data Science and AI](https://www.birmingham.ac.uk/research/data-science/index.aspx), which is directed by Professor Iain Styles, will host events for the Academy where these cannot be offered by course providers.
 5. *Compute* The Tier 2 High-Performance Computing Facility [Baskerville](https://www.baskerville.ac.uk/) is based in Birmingham.
 
-The Academy is looking to work with further partners across the UK to develop this offering.
+## Can my university be a part of this?
+
+Yes. The Academy is looking to work with further partners across the UK to develop this offering.
