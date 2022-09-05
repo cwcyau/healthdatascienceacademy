@@ -52,9 +52,9 @@ The Academy will focus on supporting the following activities:
 
 ## Further information
 
-The Academy is currently in development but for further information about how to be involved, contact us: <phd@hdruk.ac.uk>
+The Academy is currently in development and we are looking to bring in collaborative partners from across the UK to make this a truly national initiative. For further information about how to become involved, contact us: <phd@hdruk.ac.uk>
 
-## Partners
+## Current Partners
 
 <img src="images/hdruk-logo.png" height=80>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/uob-logo.png" height=80>
 
