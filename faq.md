@@ -50,4 +50,4 @@ There were a number of reasons that Health Data Research UK chose to work with t
 
 ## Can my university be a part of this?
 
-Yes. The Academy is looking to work with further partners across the UK to develop this offering.
+Yes. The Academy is looking to work with further partners across the UK to develop this initiative.
