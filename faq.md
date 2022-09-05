@@ -37,3 +37,12 @@ The Academy will not be profit-generating and any unanticipated surpluses will b
 > “The job market is so competitive. I have advertised a postdoc position for a health data scientist three times now but found no suitable applicants that fit the criteria. My Human Resources team have asked me whether I can relax the criteria and expand my search but I cannot recruit someone who doesn’t have experience of public health epidemiology, can I? How will I get them up to speed? I don’t have time to hand-hold them for the next six months.”
 
 **EXAMPLE ACADEMY SOLUTION:** The health data science job market is highly-competitive and recruiters may need to show flexibility around the experience and skill levels of the individuals they recruit. The Academy could provide an option for recruiters to take on talented individuals who need support in the early parts of their employment. The Academy’s “public health data science” learning pathway would point to a variety of foundational training courses in their areas and then to a virtual library of specialist training advanced materials in epidemiological research methods. It would still be up to you to shape the training of your new postdoc but you wouldn’t feel entirely alone.
+
+## Why the University of Birmingham?
+
+There were a number of reasons that Health Data Research UK chose to work with the University of Birmingham to kickstart this initiative. These are outlined in the following:
+
+1. *Geography* Birmingham is centrally located in the UK and well-connected in terms of transport.
+2. *Cost* Compared to London, it is significantly cheaper to operate events from Birmingham.
+3. *Existing investments* HDR UK has invested in two Research Data Hubs ([INSIGHT](https://www.hdruk.ac.uk/helping-with-health-data/health-data-research-hubs/insight/) and [PIONEER](https://www.hdruk.ac.uk/helping-with-health-data/health-data-research-hubs/pioneer/)) in Birmingham. The Academy will work with the PIONEER Hub to establish one of its first courses on using real-world hospital data.
+4. 
