@@ -56,6 +56,5 @@ The Academy is currently in development but for further information about how to
 
 ## Partners
 
-<img src="images/hdruk-logo.png"  width=25% height=25%>
-<img src="images/uob-logo.png"  width=25% height=25%>
+<img src="images/hdruk-logo.png" height=80>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/uob-logo.png" height=80>
 
