@@ -1,4 +1,4 @@
-# The National Academy for Health Data Science
+![National Academy for Health Data Science](nahds.png)
 
 ## Purpose
 
