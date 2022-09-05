@@ -54,6 +54,13 @@ The Academy will focus on supporting the following activities:
 
 The Academy is currently in development and we are looking to bring in collaborative partners from across the UK to make this a truly national initiative. For further information about how to become involved, contact us: <phd@hdruk.ac.uk>
 
+You can follow these links to learn more about the Academy:
+
+- [Academic Board](academic_board.md)
+- [Course Registration](course_registration.md)
+- [Learning Pathways](pathways.md)
+- [Frequently Asked Questions](faq.md)
+
 ## Current Partners
 
 <img src="images/hdruk-logo.png" height=80>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/uob-logo.png" height=80>
