@@ -42,6 +42,8 @@ For those who may be interested in finding out more about fairness in healthcare
 
 **9.30-10.15 What is bias in healthcare modelling?**
 
+*Reading papers:*
+
 1. Irene Y. Chen, Emma Pierson, Sherri Rose, Shalmali Joshi, Kadija Ferryman, Marzyeh Ghassemi (2021). *Ethical Machine Learning in Healthcare*. Annual Review of Biomedical Data Science, 4:1, 123-144 
 
 2. Harini Suresh and John Guttag (2021). *Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle*. MIT Case Studies in Social and Ethical Responsibilities of Computing,
@@ -51,6 +53,8 @@ For those who may be interested in finding out more about fairness in healthcare
 - What is selection bias? 
 - What are common sources of selection bias? 
 - Can we correct for selection bias? 
+
+*Reading papers:*
 
 1. Laliberté V, Giguère CE, Potvin S, Lesage A; Signature Consortium (2020). *Berkson's bias in biobank sampling in a specialised mental health care setting: a comparative cross-sectional study.* BMJ Open.
 
@@ -65,6 +69,8 @@ For those who may be interested in finding out more about fairness in healthcare
 - What is algorithmic fairness?
 - How do we evaluate algorithmic fairness? 
 - What are the limits of algorithmic solutions? 
+
+*Reading papers:*
 
 1. Mitchell, S., Potash, E., Barocas, S., D'Amour, A., and Lum, K., (2018) *Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions*, arXiv.
 
