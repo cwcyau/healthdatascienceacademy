@@ -1,8 +1,8 @@
-# [Course Code] Introduction to experimental methods for health data scientists
+# HDR003 Introduction to experimental methods for health data scientists
 
 ## Basic Information
 
-Code: XXX
+Code: HDR003
 
 Title: Introduction to experimental methods for health data scientists
 
