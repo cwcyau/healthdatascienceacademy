@@ -23,7 +23,7 @@ The aim of this training is to cover the basic principles of fairness in healthc
 
 ### Teaching methods
 
-The first part of the training will be largely based around discussions, but PhD students are expected to have read 4-5 of the key papers in this area that are listed below. In the second part, students will be split into groups and work on a task. 
+The first part of the training will be largely based around discussions, but participants are expected to have read 4-5 of the key papers in this area that are listed below. In the second part, participants will be split into groups and work on a task. 
 
 ## Pre-requisites
 
@@ -78,7 +78,7 @@ For those who may be interested in finding out more about fairness in healthcare
 
 ### Day 2: Group work
 
-The second day will be mostly spent working on the task with the help of senior PhD students. 
+The second day will be mostly spent working on the task with the help of instructors. 
 
 | Time | Task |
 | ---- | ---- |
