@@ -66,3 +66,7 @@ There were a number of reasons that Health Data Research UK chose to work with t
 ## Can my university be a part of this?
 
 Yes. The Academy is looking to work with further partners across the UK to develop this initiative.
+
+## Are you trying to be all things to all people?
+
+We would like to! But, ultimately the practical limitations of time and resources will require us to focus on specific target areas. These will determine on levels of community engagement and opportunity.
