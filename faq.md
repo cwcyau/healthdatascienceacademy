@@ -42,7 +42,7 @@ The Academy will not be profit-generating and any unanticipated surpluses will b
 
 > “I am a new mum who has taken quite a bit of time out over the last few years after having two children. I am returning to work full-time in a few months but a bit worried that I am no longer current with my knowledge of health data science. I haven't thought seriously about science in a while. I would like to become re-engaged with the subject in a friendly environment and find out what I have missed.”
 
-**EXAMPLE ACADEMY SOLUTION:** Academy courses are standalone. 
+**EXAMPLE ACADEMY SOLUTION:** Academy courses are standalone and a number involve discussion-centred learning. 
 
 
 
