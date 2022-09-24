@@ -36,7 +36,15 @@ The Academy will not be profit-generating and any unanticipated surpluses will b
 
 > “The job market is so competitive. I have advertised a postdoc position for a health data scientist three times now but found no suitable applicants that fit the criteria. My Human Resources team have asked me whether I can relax the criteria and expand my search but I cannot recruit someone who doesn’t have experience of public health epidemiology, can I? How will I get them up to speed? I don’t have time to hand-hold them for the next six months.”
 
-**EXAMPLE ACADEMY SOLUTION:** The health data science job market is highly-competitive and recruiters may need to show flexibility around the experience and skill levels of the individuals they recruit. The Academy could provide an option for recruiters to take on talented individuals who need support in the early parts of their employment. The Academy’s “public health data science” learning pathway would point to a variety of foundational training courses in their areas and then to a virtual library of specialist training advanced materials in epidemiological research methods. It would still be up to you to shape the training of your new postdoc but you wouldn’t feel entirely alone.
+**EXAMPLE ACADEMY SOLUTION:** The health data science job market is highly-competitive and recruiters may need to show flexibility around the experience and skill levels of the individuals they recruit. The Academy could provide an option for recruiters to take on talented individuals who need support in the early parts of their employment. The Academy’s “public health data science” learning pathway would point to a variety of foundational training courses in their areas and then to a virtual library of specialist training advanced materials in epidemiological research methods. It would still be up to you to shape the training of your new postdoc but you wouldn’t feel that you have to do it entirely alone.
+
+**Those returning to work after a career interruption**
+
+> “I am a new mum who has taken quite a bit of time out over the last few years after having two children. I am returning to work full-time in a few months but a bit worried that I am no longer current with my knowledge of health data science. I haven't thought seriously about science in a while. I would like to become re-engaged with the subject in a friendly environment and find out what I have missed.”
+
+**EXAMPLE ACADEMY SOLUTION:** Academy courses are standalone. 
+
+
 
 ## Why the University of Birmingham?
 
