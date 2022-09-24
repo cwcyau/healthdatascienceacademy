@@ -26,10 +26,8 @@ The Academy will not support entry-level and introductory training and education
 -	Computer science foundations (e.g. principles of algorithms),
 -	Learning programming languages and tools (e.g. how to code in Python),
 -	Highly specialised training in subject-specific topics (e.g. bioinformatics analysis using PLINK).
-
-Participants in the Academy will be assumed to have obtained prior experience of these concepts gained from previous studies, work experience or learning through other existing providers (e.g. university-run courses, Coursera).
-
-We do not seek to replicate the many existing training offerings in this domain.
+	
+The Academy will signpost to the many providers (e.g. university-run courses, Coursera) and will not seek to replicate the many pre-existing training offerings in this domain.
 
 ## Who are we looking for?
 
@@ -41,20 +39,22 @@ We expect Academy participants will be someone who has:
 
 Participants should also be open-minded and show humility in their approach to learning as they may be introduced to novel concepts or alternate paradigms that conflict with their existing knowledge and practice.
 
+If you are looking to do one or more of the following then you may benefit from the Academy:
+
+1. Seeking to change scientific disciplines (to health data science),
+2. Maintain knowledge during a career interruption,
+3. Updating knowledge after returning to work from a career interruption,
+4. Update or acquire new knowledge while in employment,
+5. Seeking to employ workers who require training in health data science.
+
 ## What will we do?
 
 The Academy will focus on supporting the following activities:
 
--	the development of new advanced training courses that fill gaps and unmet needs in health data science,
--	the delivery of training courses that enable cross-disciplinary transitions for scientists with advanced quantitative skills,
+-	the development of new advanced training courses that fill gaps and unmet needs in health data science (especially imparting tacit knowledge or "know-how") 
+-	the delivery of training courses that enable cross-disciplinary transitions for scientists with advanced quantitative skills and provide flexible modes of learning,
 -	create and curate accredited learning pathways and curricula to help newcomers to navigate the complex training offerings,
 -	providing a specialist forum for employers (academic and commercial) to showcase their research and development activities and attract potential employees.
-
-## Who will benefit from the Academy?
-
-We seek to support individuals who are:
-
-1. Interested in careers 
 
 ## Further information
 
