@@ -16,7 +16,7 @@ Training in certain entry-level topics is highly duplicated (e.g. Introduction t
 
 Furthermore, for those who are thinking about entering health data science from another discipline, where do you start if you already have considerable expertise and experience in relevant areas? Does someone with a PhD in Theoretical Physics, who can already do highly advanced mathematics, need to go back to do a Masters degree in Health Data Science? Can a potential employer afford to invest in the time and cost for someone like this to *“learn on the job”*?
 
-The development of the Academy is a response to these issues. We want to start connecting the dots of excellence across the UK and support the development of future health data scientists by helping navigate the complex training needs required and to build flexible solutions that address areas of unmet training need.
+The development of the Academy is a response to these issues. We want to start connecting the dots of excellence across the UK and support the development of future health data scientists by helping navigate the complex training needs required and to build flexible solutions that address areas of unmet training need and widen participation in health data science.
 
 ## What will we not do?
 
