@@ -69,4 +69,4 @@ Yes. The Academy is looking to work with further partners across the UK to devel
 
 ## Are you trying to be all things to all people?
 
-We would like to! But, ultimately the practical limitations of time and resources will require us to focus on specific target areas in time. These will be determined based on levels of community engagement and opportunity.
+We would like to! But, ultimately the practical limitations of time and resources will require us to focus on specific target areas in time. These will be determined based on levels of community engagement and opportunity. We will use the initial pilot phase to try different ideas, evaluate what works (or doesn't) and consider innovative ideas that traditional mass-education issues cannot address.
