@@ -51,9 +51,7 @@ There will be no fixed format as certain approaches might be better suitable for
 
 > “I am a new mum who has taken quite a bit of time out over the last few years after having two children. I am returning to work full-time in a few months but a bit worried that I am no longer current with my knowledge of health data science. I haven't thought seriously about science in a while. I would like to become re-engaged with the subject in a friendly environment and find out what I have missed.”
 
-**EXAMPLE ACADEMY SOLUTION:** Academy courses are standalone and a number involve discussion-centred learning. 
-
-
+**EXAMPLE ACADEMY SOLUTION:** Academy courses which involve discussion-centred or mentoring-based learning might be suitable in this situation. These courses will connect you with others in the country who might share similar circumstances and experiences. 
 
 ## Why the University of Birmingham?
 
