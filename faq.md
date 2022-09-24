@@ -27,6 +27,8 @@ There will be no fixed format as certain approaches might be better suitable for
 - Self-learn virtual course plus 3-4 tutor-led interactive sessions,
 - 4x 2 hour guided mentoring sessions (over 1 year). 
 
+We are broadly interested in innovation training approaches that might cater to groups or circumstances which are prohibitive for existing mass-education models.
+
 ## Describe some circumstances that would make me want to participate in the Academy?
 
 **Those seeking training**
@@ -55,11 +57,9 @@ There will be no fixed format as certain approaches might be better suitable for
 
 **Those wanting to learn within a different culture or environment**
 
-> “I work in health data science but the environment I am in is quite elitist and demanding. ”
+> “I work in health data science but the environment I am based in is quite elitist and demanding. Even discussions on the latest research papers can get quite heated.”
 
 **EXAMPLE ACADEMY SOLUTION:** Academy courses which involve discussion-centred or mentoring-based learning might be suitable in this situation. These courses might connect you with others in the country who might share similar circumstances and experiences. 
-
-
 
 ## Why the University of Birmingham?
 
