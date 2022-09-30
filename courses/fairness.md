@@ -44,9 +44,13 @@ For those who may be interested in finding out more about fairness in healthcare
 
 *Reading papers:*
 
-1. Irene Y. Chen, Emma Pierson, Sherri Rose, Shalmali Joshi, Kadija Ferryman, Marzyeh Ghassemi (2021). *Ethical Machine Learning in Healthcare*. Annual Review of Biomedical Data Science, 4:1, 123-144 
+1. Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, and Aram Galstyan, (2022). *A Survey on Bias and Fairness in Machine Learning*. ACM Comput. Surv. 54, 6, Article 115.
 
-2. Harini Suresh and John Guttag (2021). *Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle*. MIT Case Studies in Social and Ethical Responsibilities of Computing,
+2. Sahil Verma and Julia Rubin (2018). *Fairness definitions explained*. In Proceedings of the International Workshop on Software Fairness (FairWare '18). 
+
+3. Irene Y. Chen, Emma Pierson, Sherri Rose, Shalmali Joshi, Kadija Ferryman, Marzyeh Ghassemi (2021). *Ethical Machine Learning in Healthcare*. Annual Review of Biomedical Data Science, 4:1, 123-144 
+
+4. Harini Suresh and John Guttag (2021). *Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle*. MIT Case Studies in Social and Ethical Responsibilities of Computing,
 
 **10:30-12:30 Bias in data collection**
 
@@ -56,15 +60,15 @@ For those who may be interested in finding out more about fairness in healthcare
 
 *Reading papers:*
 
-1. Laliberté V, Giguère CE, Potvin S, Lesage A; Signature Consortium (2020). *Berkson's bias in biobank sampling in a specialised mental health care setting: a comparative cross-sectional study.* BMJ Open.
+5. Laliberté V, Giguère CE, Potvin S, Lesage A; Signature Consortium (2020). *Berkson's bias in biobank sampling in a specialised mental health care setting: a comparative cross-sectional study.* BMJ Open.
 
-2. Rory Collins (2012) *What makes UK Biobank special?*  The Lancet, Volume 379, Issue 9822. Including comment by James M. Swanson.
+6. Rory Collins (2012) *What makes UK Biobank special?*  The Lancet, Volume 379, Issue 9822. Including comment by James M. Swanson.
 
-3. Huang, Jonathan Yinhao (2021) *Representativeness Is Not Representative: Addressing Major Inferential Threats in the UK Biobank and Other Big Data Repositories.* Epidemiology: Volume 32 - Issue 2.
+7. Huang, Jonathan Yinhao (2021) *Representativeness Is Not Representative: Addressing Major Inferential Threats in the UK Biobank and Other Big Data Repositories.* Epidemiology: Volume 32 - Issue 2.
 
-4. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
+8. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
 
-**14:00-15:30 Algorithmic fairness**
+**14:00-15:30 Algorithmic fairness in healthcare**
 
 - What is algorithmic fairness?
 - How do we evaluate algorithmic fairness? 
@@ -72,13 +76,16 @@ For those who may be interested in finding out more about fairness in healthcare
 
 *Reading papers:*
 
-1. Mitchell, S., Potash, E., Barocas, S., D'Amour, A., and Lum, K., (2018) *Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions*, arXiv.
+9. Mitchell, S., Potash, E., Barocas, S., D'Amour, A., and Lum, K., (2018) *Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions*, arXiv.
 
-2. Solon Barocas, Anhong Guo, Ece Kamar, Jacquelyn Krones, Meredith Ringel Morris, Jennifer Wortman Vaughan, W. Duncan Wadsworth, and Hanna Wallach (2021). *Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs.* In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES '21). 
+10. Solon Barocas, Anhong Guo, Ece Kamar, Jacquelyn Krones, Meredith Ringel Morris, Jennifer Wortman Vaughan, W. Duncan Wadsworth, and Hanna Wallach (2021). *Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs.* In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES '21). 
 
-3. Kristian Lum, Yunfeng Zhang, and Amanda Bower, (2022). *De-biasing “bias” measurement.* In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22).
+11. Abigail Z. Jacobs and Hanna Wallach, (2021). *Measurement and Fairness.* In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21).
 
-4. Abigail Z. Jacobs and Hanna Wallach, (2021). *Measurement and Fairness.* In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21).
+12. Grote, T., & Keeling, G. (2022). *On Algorithmic Fairness in Medical Practice*. Cambridge Quarterly of Healthcare Ethics, 31(1), 83-94. 
+
+13.  Margrét Vilborg Bjarnadóttir and David Anderson (2020). *Machine Learning in Healthcare: Fairness, Issues, and Challenges.* Pushing the Boundaries: Frontiers in Impactful OR/OM Research. 64-83.
+
 
 **15.30-16.00: Summary and introduction to Day 2 task.**
 
