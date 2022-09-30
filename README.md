@@ -10,9 +10,9 @@ It is currently being developed by Professors [Iain Styles](https://www.cs.bham.
 
 Access to advanced Health Data Science training in the UK is patchy.
 
-There are elements of excellence, such as Centres for Doctoral Training, but access to this type of training is often restricted to a limited number of individuals. While there are an increasing variety of training programmes offered by academic institutions and commercial organisations, awareness of these training opportunities can be limited, potentially costly and quality assurance maybe lacking. Delivery models may also be unsuitable for certain groups of potential learners (e..g. individuals with caring responsibilities, returning to work, etc).
+While training in certain entry-level topics is abundant and often highly duplicated, there is often little or no training available in other critical specialisms. Catering to such needs is challenging as the small audiences means financial viability is difficult to achieve. 
 
-Training in certain entry-level topics is highly duplicated (e.g. Introduction to Deep Learning) whilst there is little or no training available in other critical specialist subjects (e.g. Healthcare Requirements Engineering). The lack of scale means financial viability is difficult to achieve for training in certain specialisms or topic areas. 
+There are elements of excellence, such as Centres for Doctoral Training, but access to this type of training is limited to a relatively small number of individuals. Alternative training opportunities may be potentially costly, lack quality assurance and use delivery models that may be unsuitable for certain groups of potential learners (e..g. individuals with caring responsibilities, returning to work, etc).
 
 Furthermore, for those who are thinking about entering health data science from another discipline, where do you start if you already have considerable expertise and experience in relevant areas? Does someone with a PhD in Theoretical Physics, who can already do highly advanced mathematics, need to go back to do a Masters degree in Health Data Science? Can a potential employer afford to invest in the time and cost for someone like this to *“learn on the job”*?
 
@@ -27,13 +27,13 @@ The Academy will not support entry-level and introductory training and education
 -	Learning programming languages and tools (e.g. how to code in Python),
 -	Highly specialised training in subject-specific topics (e.g. bioinformatics analysis using PLINK).
 	
-The Academy will signpost to the many providers (e.g. university-run courses, Coursera) and will not seek to replicate the many pre-existing training offerings in this domain.
+The Academy will signpost to the many providers (e.g. university-run courses, Coursera) but will not seek to replicate the many pre-existing training offerings in this domain.
 
 ## Who are we looking for?
 
 We expect Academy participants will be someone who has:
 
-1.	Graduate-level experience and capability in core areas of mathematics,
+1.	Graduate-level experience and capability in core areas of mathematics and/or the computational sciences,
 2.	Experience of developing software for scientific research purposes,
 3.	The ability to learn new programming languages with relatively little direct guidance.
 
@@ -43,15 +43,15 @@ If you are looking to do one or more of the following then you may benefit from 
 
 1. Seeking to change scientific disciplines (to health data science),
 2. Maintain knowledge during a career interruption,
-3. Updating knowledge after returning to work from a career interruption,
-4. Update or acquire new knowledge while in employment,
-5. Seeking to employ workers who require training in health data science.
+3. Update knowledge after returning to work from a career interruption,
+4. Update or acquire new knowledge whilst in employment,
+5. Seeking to employ or support employees who require training in health data science.
 
 ## What will we do?
 
 The Academy will focus on supporting the following activities:
 
--	the development of new advanced training courses that fill gaps and unmet needs in health data science (especially imparting tacit knowledge or "know-how") 
+-	the development of new advanced training courses that fill gaps and unmet needs in health data science (especially tacit knowledge or "know-how") 
 -	the delivery of training courses that enable cross-disciplinary transitions for scientists with advanced quantitative skills and provide flexible modes of learning,
 -	create and curate accredited learning pathways and curricula to help newcomers to navigate the complex training offerings,
 -	providing a specialist forum for employers (academic and commercial) to showcase their research and development activities and attract potential employees.
