@@ -6,7 +6,7 @@
 | :---- | :------ |
 | Code | HDR001 |
 | Title | Fairness in healthcare modelling |
-| Leader | Ioanna Manolopoulou |
+| Leader | [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/) |
 | Duration | 3 days |
 
 ## Description
