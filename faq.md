@@ -20,14 +20,7 @@ The Academy will not be profit-generating and any unanticipated surpluses will b
 
 ## What does an Academy course look like?
 
-There will be no fixed format as certain approaches might be better suitable for particular topics but we expect that Academy courses will generally be lightweight training options. For illustration, this might include:
-
-- Standalone 1-5 day residential training courses,
-- 8x 1 hour virtual interactive seminars (over 8 weeks),
-- Self-learn virtual course plus 3-4 tutor-led interactive sessions,
-- 4x 2 hour guided mentoring sessions (over 1 year). 
-
-We are broadly interested in innovation training approaches that might cater to groups or circumstances which are prohibitive for existing mass-education models.
+There will be no fixed format as certain approaches might be better suitable for particular topics but we expect that Academy courses will generally be lightweight training options. We are interested in innovative training approaches that encourage interactivity, discussion and thinking might cater to groups or circumstances which are prohibitive for existing mass-education models. 
 
 ## Describe some circumstances that would make me want to participate in the Academy?
 
