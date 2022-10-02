@@ -63,6 +63,7 @@ The Academy is currently in development and we are looking to bring in collabora
 You can follow these links to learn more about the Academy:
 
 - [Academic Board](academic_board.md)
+- [Courses in Development](courses.md)
 - [Course Registration](course_registration.md)
 - [Learning Pathways](pathways.md)
 - [Frequently Asked Questions](faq.md)
