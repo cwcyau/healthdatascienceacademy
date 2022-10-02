@@ -56,7 +56,11 @@ There will be no fixed format as certain approaches might be better suitable for
 
 > “I am a new mum who has taken quite a bit of time out over the last few years after having two children. I am returning to work full-time in a few months but a bit worried that I am no longer current with my knowledge of health data science. I haven't thought seriously about science in a while. I would like to become re-engaged with the subject in a friendly environment and find out what I have missed.”
 
-**EXAMPLE ACADEMY SOLUTION:** Academy courses which involve discussion-centred or mentoring-based learning might be suitable in this situation. These courses might connect you with others in the country who might share similar circumstances and experiences. 
+**Addressing inequality of opportunity**
+
+> “There seems to be so many training opportunities in health data science in the Golden Triangle. In my institution, the only people working on health data science is myself and my supervisor. We are doing well given our limited resources but it all feels a bit unfair.”
+
+**EXAMPLE ACADEMY SOLUTION:** This is a critical reason for establishing the Academy. We want to support more equitable access to high-quality education and training. We recognise that some training is locked within certain institutions and we want to promote the use of the Academy as a vehicle to open the best training to a wider audience. In the modern age, with digital and virtual learning becoming the norm, traditional institutional barriers seem less relevant. 
 
 ## Why the University of Birmingham?
 
