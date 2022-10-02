@@ -68,7 +68,16 @@ You can follow these links to learn more about the Academy:
 - [Learning Pathways](pathways.md)
 - [Frequently Asked Questions](faq.md)
 
-## Current Partners
+## Current Partners and contributors
 
 <img src="images/hdruk-logo.png" height=80>&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/uob-logo.png" height=80>
 
+| Name | Organisation | Role |
+| ---- | ------------ | ---- | 
+| Professor Christopher Yau | University of Oxford / HDRUK | Academy Co-Director |
+| Professor Iain Styles | University of Birmingham / Alan Turing Institute | Academy Co-Director |
+| Professor Ioanna Manolopolou | University College London / HDRUK | Course Lead |
+| Associate Professor Max Little | University College London / HDRUK | Course Lead |
+| Dr David Wong | University of Manchester | Course Lead |
+| Dr Ben Mccanna | University of Birmingham | Teaching Fellow |
+| Sarah Cadman | HDRUK | Programme Oversight Lead |
