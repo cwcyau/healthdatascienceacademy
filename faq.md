@@ -36,21 +36,25 @@ There will be no fixed format as certain approaches might be better suitable for
 
 **EXAMPLE ACADEMY SOLUTION:** The Senior Lecturer can refer their student to the Academy website. The student can locate the “Computational Biology” learning pathway and identify that University X has a registered Academy course on “multi-modal data integration techniques”. The Academy also recommends some pre-requisite courses: “Advanced Modelling Techniques” and “Choosing the Right Models: Model Criticism and Evaluation”. The first of these sessions has recently run but the material is available online via the HDR UK Futures platform while the others run later in the term.
 
+**Those wanting to learn within a different culture or environment**
+
+> “I work in health data science but the environment I am based in is quite elitist and demanding. Even discussions on the latest research papers can get quite heated.”
+
+> "In my environment, all they want to do is publish, publish, publish but I don't think we are advancing health by just churning out papers. I want my research to be meaningful but I don't understand how to go from research papers to doing something in real-life.”
+
+**EXAMPLE ACADEMY SOLUTION:** Academy courses involves groups of participants from across the country and different settings. Participating in an Academy course might enable you to find others who share similar values and approaches to working. Courses will be focused on conveying know-how and tacit knowledge to enable real-world health care technology practice and implementation not for academic study.
+
 **Those looking to recruit**
 
 > “The job market is so competitive. I have advertised a postdoc position for a health data scientist three times now but found no suitable applicants that fit the criteria. My Human Resources team have asked me whether I can relax the criteria and expand my search but I cannot recruit someone who doesn’t have experience of public health epidemiology, can I? How will I get them up to speed? I don’t have time to hand-hold them for the next six months.”
 
 **EXAMPLE ACADEMY SOLUTION:** The health data science job market is highly-competitive and recruiters may need to show flexibility around the experience and skill levels of the individuals they recruit. The Academy could provide an option for recruiters to take on talented individuals who need support in the early parts of their employment. The Academy’s “public health data science” learning pathway would point to a variety of foundational training courses in their areas and then to a virtual library of specialist training advanced materials in epidemiological research methods. It would still be up to you to shape the training of your new postdoc but you wouldn’t feel that you have to do it entirely alone.
 
+**EXAMPLE ACADEMY SOLUTION:** If you have a postdoc job, why not devise and teach a course at the Academy enabling you to convey your expertise to a wider, nation-wide audience. The course could be a platform for a subtle showcase for your employment opportunities.
+
 **Those returning to work after a career interruption**
 
 > “I am a new mum who has taken quite a bit of time out over the last few years after having two children. I am returning to work full-time in a few months but a bit worried that I am no longer current with my knowledge of health data science. I haven't thought seriously about science in a while. I would like to become re-engaged with the subject in a friendly environment and find out what I have missed.”
-
-**EXAMPLE ACADEMY SOLUTION:** Academy courses which involve discussion-centred or mentoring-based learning might be suitable in this situation. These courses might connect you with others in the country who might share similar circumstances and experiences. 
-
-**Those wanting to learn within a different culture or environment**
-
-> “I work in health data science but the environment I am based in is quite elitist and demanding. Even discussions on the latest research papers can get quite heated.”
 
 **EXAMPLE ACADEMY SOLUTION:** Academy courses which involve discussion-centred or mentoring-based learning might be suitable in this situation. These courses might connect you with others in the country who might share similar circumstances and experiences. 
 
