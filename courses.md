@@ -18,3 +18,10 @@ Experimental design is often taught as a theoretical exercise which is divorced 
 
 Patient medical data is rightly highly restricted and access typically requires a significant administrative effort which is impractical for anyone wishing to access it for training. As a result, the Academy have developed this flagship course, delivered in conjunction with the [PIONEER Research Hub](https://www.hdruk.ac.uk/helping-with-health-data/health-data-research-hubs/pioneer/) to open up access to real-world NHS secondary care data to participants for training. The course will provide background on the use of electronic health records (EHR) (including how EHRs are stored, processed and analysed) and provide practical rules for health data analysis that will avoid common issues such as bias and non-identifiability.
 
+**[HDR005 Healthcare Engineering Design](courses/engineering_design.md)**
+
+Is the solution AI or something else? How do you know what the solution to a problem is? How do you know you are solving the right problem? Formal engineering design provides frameworks and processes to enable problem identification, specification and solution generation to be done effectively and efficiently. However, outside of Engineering, it is rare for these ideas to be taught in other disciplines leaving those entering the employment market, desperately short of critical skills. This course provides a rapid introduction to engineering design, its applicability to various health-related scenarios, and reveals the "tricks of the trade" from academic- and industry experts.
+
+**[HDR006 Medical Device Regulation](courses/hardian.md)**
+
+A considerable barrier to technology innovation reaching the market is a lack of understanding of the processes and pathways that medical devices must undergo before they are considered suitable for sale and distribution in the UK and elsewhere. This course, co-developed by [Hardian Health], will provide a comprehensive learning programme on the regulatory, economic and evidence issues necessary to bring products to market.
