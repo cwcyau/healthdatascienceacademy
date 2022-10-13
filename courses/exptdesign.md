@@ -14,9 +14,9 @@ Duration: 4 days
 
 ### Overview 
 
-Experimental methods are concerned with the approach to designing an experiment to support or refute a hypothesis. An appropriate experimental design will therefore allow an experiment to be carried out and answer the question of interest through the data collected but an unsuitable experimental design can confuse analysis and introduce error into results.
+Experimental methods are concerned with the approach to designing an experiment to support or refute a hypothesis. An appropriate experimental design will therefore allow an experiment to be carried out and answer the question of interest. In contrast the data collected but an unsuitable experimental design can confuse analysis and introduce error into results. However, experimental methods can be an alien concept to many 
 
-This course aims to provide a rapid introduction to important experimental methods and its applications in health data science. The delivery will centred on a series of real-world case studies across a range of health areas to provide participants with a breadth of knowledge on how experimental methods are used in practice. Activities will support experimentation with example problems to understand the need for formal experimental design approaches.
+This course aims to provide a rapid introduction to important experimental methods and its applications in health data science. The delivery will centred on a series of real-world case studies across a range of health areas to provide participants with a breadth of knowledge on how experimental methods are used in practice. Activities will support experimentation with example problems to understand the need for formal experimental design approaches. 
 
 It is suitable for those with (post-)doctoral level in the mathematical or computational sciences. No prior health data science experience is required. 
 
@@ -27,6 +27,28 @@ It is suitable for those with (post-)doctoral level in the mathematical or compu
 ## Pre-requisites
 
 ## Example Timetable
+
+| Day | Time | Session Details |
+| --- | ---- | --------------- |
+| 1 | PM | Welcome & Introductions |
+| 2 | AM | ----- |
+| 2 | PM | ----- |
+| 3 | AM | ----- |
+| 3 | PM | ----- |
+| 4 | AM | ----- |
+| 4 | PM | ----- |
+| 5 | AM | ----- |
+
+
+| Day | AM | PM |
+| --- | -- | -- | 
+| 1 | | Welcome & Introductions |
+| 2 | Nature's experiment | Practical |
+| 3 | Clinical Trials | |
+| 4 | | |
+| 5 | | |
+
+
 
 **Block 1: The scientific method in health sciences** 
 
