@@ -104,6 +104,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 Guest speaker(s):
 
 - [Max Little, University of Birmingham](http://www.maxlittle.net/home/index.php) ("Remote monitoring in neurodegenerative diseases")
+- [Robin Evans, University of Oxford](https://www.stats.ox.ac.uk/~evans/) ("Causal methods for observational data")
 
 ### Day 5: Group Exercise
 
