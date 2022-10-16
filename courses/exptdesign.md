@@ -73,12 +73,13 @@ The second day will introduce the *randomised control trial* (RCT):
 - double-blinding; 
 - complex RCTs: wedges, steps, crossover, multi-step, N-of-1, adaptive, Bayesian
 
-The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to produce a simulation of an RCT under different scenarios (including those which break the RCT). There will be particular interest in groups simulating scenarios relevant to their area of science.
+The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to produce a simulation of an RCT under different scenarios. Examples might include showing the optimality of a stepped wedge design or the compromises of using clustered RCTs. There will be particular interest in groups simulating scenarios that can be inspired from their own areas of science.
 
 *Possible guest speaker(s):*
 
 - [David Wong, University of Manchester](https://personalpages.manchester.ac.uk/staff/david.wong/) ("How to put together an RCT in practice")
 - [Sarah Elison-Davies, Breaking Free Online](https://www.breakingfreegroup.com/research) ("How are we using RCTs to prove the effectiveness of digital interventions?")
+- [Karla Hemming, University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/applied-health/hemming-karla.aspx) ("The stepped wedege trial")
 
 ### Day 3: Nature's experiment
 
@@ -88,7 +89,7 @@ The third day will introduce the concept of *Mendelian Randomisation* (MR):
 - instrument variables in causal inference;
 - causal interpretation of genetic association studies.
 
-The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to produce a simulation of MR under different scenarios within a genetic association (including those which break the MR assumptions). 
+The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to produce a simulation of MR under different scenarios within a genetic association study (including those which break the MR assumptions) to understand the utility of genetic variants as instrumental variables. 
 
 *Possible guest speaker(s):*
 
@@ -103,7 +104,7 @@ The fourth day will introduce the concept of *observational studies*:
 - the advantages and pitfalls;
 - the risk of bias and possible solutions;
 
-The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to compare the performance of a classification algorithm train and applied to data acquired from a simulation of an RCT and an observational data set.
+The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to compare the performance of a classification algorithm train and applied to data acquired from a simulation of an RCT and an observational data set. Groups will be asked to consider common challenges when using health data such as structured missingness, diagnostic delay, misdiagnosis, etc.
 
 *Possible guest speaker(s):*
 
