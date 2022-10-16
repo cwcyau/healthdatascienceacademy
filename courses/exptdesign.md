@@ -59,7 +59,6 @@ There will be a short group exercise to design an experiment based on a breast s
 Guest speaker(s):
 
 - Christopher Yau, University of Oxford
-- David Wong, University of Manchester
 
 ### Day 2: What is the ideal experiment? 
 
