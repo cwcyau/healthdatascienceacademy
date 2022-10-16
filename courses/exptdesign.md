@@ -56,7 +56,7 @@ The purpose is to get participants up to speed (from whatever discipline they co
 
 There will be a short group exercise to design an experiment based on a breast screening scenario.
 
-Guest speaker(s):
+*Guest speaker(s):*
 
 - [Richard Riley, University of Birmingham](https://scholar.google.co.uk/citations?user=didzOp8AAAAJ&hl=en) 
 - [Christopher Yau, University of Oxford](https://www.bdi.ox.ac.uk/Team/christoper-yau) ("How should we go about using Artificial Intelligence in Medicine?")
@@ -73,7 +73,7 @@ The second day will introduce the *randomised control trial* (RCT):
 
 The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to produce a simulation of an RCT under different scenarios (including those which break the RCT). There will be particular interest in groups simulating scenarios relevant to their area of science.
 
-Guest speaker(s):
+*Guest speaker(s):*
 
 - [David Wong, University of Manchester](https://personalpages.manchester.ac.uk/staff/david.wong/) ("How to put together an RCT in practice")
 
@@ -87,7 +87,7 @@ The third day will introduce the concept of *Mendelian Randomisation* (MR):
 
 The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to produce a simulation of MR under different scenarios within a genetic association (including those which break the MR assumptions). 
 
-Guest speaker(s):
+*Guest speaker(s):*
 
 - [Alex Cornish, Benevolent AI](https://scholar.google.com/citations?hl=en&user=viBK5DMAAAAJ&view_op=list_works&sortby=pubdate) ("How do we use Mendelian Randomisation to tell us about what causes human diseases")
 
@@ -101,7 +101,7 @@ The fourth day will introduce the concept of *observational studies*:
 
 The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to compare the performance of a classification algorithm train and applied to data acquired from a simulation of an RCT and an observational data set.
 
-Guest speaker(s):
+*Guest speaker(s):*
 
 - [Max Little, University of Birmingham](http://www.maxlittle.net/home/index.php) ("Remote monitoring in neurodegenerative diseases")
 - [Robin Evans, University of Oxford](https://www.stats.ox.ac.uk/~evans/) ("Causal methods for observational data")
