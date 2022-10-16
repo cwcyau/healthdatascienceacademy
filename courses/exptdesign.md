@@ -6,7 +6,7 @@ Code: HDR003
 
 Title: Real-world experimental methods for health data science
 
-Leader: Max Little
+Leader: -
 
 Duration: 4 days
 
@@ -28,31 +28,36 @@ It is suitable for those with (post-)doctoral level in the mathematical or compu
 
 ## Example Timetable
 
-| Day | Time | Session Details |
-| --- | ---- | --------------- |
-| 1 | PM | Welcome & Introductions |
-| 2 | AM | ----- |
-| 2 | PM | ----- |
-| 3 | AM | ----- |
-| 3 | PM | ----- |
-| 4 | AM | ----- |
-| 4 | PM | ----- |
-| 5 | AM | ----- |
-
-
 | Day | AM | PM |
 | --- | -- | -- | 
-| 1 | | Welcome & Introductions |
-| 2 | Nature's experiment | Practical |
-| 3 | Clinical Trials | |
-| 4 | | |
-| 5 | | |
+| 1 | Arrival | Welcome & Introductions |
+| 2 | What is the ideal experiment? | Practical: Simulating a randomised control trial |
+| 3 | Nature's experiment | Practical: Mendelian randomisation |
+| 4 | What you see is not what you get? | Practical: Adjustments for observation bias |
+| 5 | Group Exercise | Return home |
 
+## Course Outline 
 
+### Day 1: Introduction
 
-**Block 1: The scientific method in health sciences** 
+This first afternoon will give a brief overview of key concepts in: 
 
-The theory-prediction-intervention cycle; the hierarchy of medical evidence; analysis and interpretation; experimenter bias; association vs. causation; biological mechanism; measurement under experimental vs. observational conditions; internal vs. external validity; transportability
+- The theory-prediction-intervention cycle; 
+- the hierarchy of medical evidence; 
+- analysis and interpretation; 
+- experimenter bias; 
+- association vs. causation; 
+- biological mechanism; 
+- measurement under experimental vs. observational conditions; 
+- internal vs. external validity; 
+- transportability
+
+The purpose is to get participants up to speed (from whatever discipline they come from) on the key topics in **the scientific method in health sciences**
+
+Guest speaker(s):
+
+- Christopher Yau, University of Oxford
+- David Wong, University of Manchester
 
 **Block 2: Experiments in health research** 
 
