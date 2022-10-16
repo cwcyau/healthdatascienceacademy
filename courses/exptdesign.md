@@ -89,7 +89,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 Guest speaker(s):
 
-- ??? ("How do we use Mendelian Randomisation to tell us about what causes human diseases")
+- [Alex Cornish](https://scholar.google.com/citations?hl=en&user=viBK5DMAAAAJ&view_op=list_works&sortby=pubdate) ("How do we use Mendelian Randomisation to tell us about what causes human diseases")
 
 ### Day 4: What you see is not what you get?
 
