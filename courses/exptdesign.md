@@ -58,6 +58,8 @@ There will be a short group exercise to design an experiment based on a breast s
 
 *Guest speaker(s):*
 
+- [Marta Milo, AstraZeneca](https://scholar.google.co.uk/citations?hl=en&user=K3Y2Mu8AAAAJ&view_op=list_works&sortby=pubdate) ("How do we do experiments in drug discovery?")
+- [Peter Bannister, Ada Health/University of Birmingham](https://www.linkedin.com/in/prbannister?originalSubdomain=uk) ("How do we assess the effectiveness of digital clinical support systems?")
 - [Richard Riley, University of Birmingham](https://scholar.google.co.uk/citations?user=didzOp8AAAAJ&hl=en) 
 - [Christopher Yau, University of Oxford](https://www.bdi.ox.ac.uk/Team/christoper-yau) ("How should we go about using Artificial Intelligence in Medicine?")
 
@@ -76,6 +78,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 *Guest speaker(s):*
 
 - [David Wong, University of Manchester](https://personalpages.manchester.ac.uk/staff/david.wong/) ("How to put together an RCT in practice")
+- [Sarah Elison-Davies, Breaking Free Online](https://www.breakingfreegroup.com/research) ("How are we using RCTs to prove the effectiveness of digital interventions?")
 
 ### Day 3: Nature's experiment
 
@@ -90,6 +93,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 *Guest speaker(s):*
 
 - [Alex Cornish, Benevolent AI](https://scholar.google.com/citations?hl=en&user=viBK5DMAAAAJ&view_op=list_works&sortby=pubdate) ("How do we use Mendelian Randomisation to tell us about what causes human diseases")
+- [Derrick Bennett, University of Oxford](https://www.ndph.ox.ac.uk/team/derrick-bennett) ("How do we use Mendelian Randomisation to understand the health of a population?")
 
 ### Day 4: What you see is not what you get?
 
@@ -105,6 +109,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 - [Max Little, University of Birmingham](http://www.maxlittle.net/home/index.php) ("Remote monitoring in neurodegenerative diseases")
 - [Robin Evans, University of Oxford](https://www.stats.ox.ac.uk/~evans/) ("Causal methods for observational data")
+- [Liz Sapey, University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/inflammation-ageing/sapey-elizabeth.aspx) ("How do we get the data to do observational studies?")
 
 ### Day 5: Group Exercise
 
