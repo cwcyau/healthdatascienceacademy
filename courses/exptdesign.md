@@ -58,8 +58,8 @@ There will be a short group exercise to design an experiment based on a breast s
 
 Guest speaker(s):
 
-- Richard Riley, University of Birmingham 
-- Christopher Yau, University of Oxford ("How should we go about using Artificial Intelligence in Medicine?")
+- [Richard Riley, University of Birmingham](https://scholar.google.co.uk/citations?user=didzOp8AAAAJ&hl=en) 
+- [Christopher Yau, University of Oxford](https://www.bdi.ox.ac.uk/Team/christoper-yau) ("How should we go about using Artificial Intelligence in Medicine?")
 
 ### Day 2: What is the ideal experiment? 
 
@@ -75,7 +75,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 Guest speaker(s):
 
-- David Wong, University of Manchester ("How to put together an RCT in practice")
+- [David Wong, University of Manchester](https://personalpages.manchester.ac.uk/staff/david.wong/) ("How to put together an RCT in practice")
 
 ### Day 3: Nature's experiment
 
@@ -89,7 +89,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 Guest speaker(s):
 
-- [Alex Cornish](https://scholar.google.com/citations?hl=en&user=viBK5DMAAAAJ&view_op=list_works&sortby=pubdate) ("How do we use Mendelian Randomisation to tell us about what causes human diseases")
+- [Alex Cornish, Benevolent AI](https://scholar.google.com/citations?hl=en&user=viBK5DMAAAAJ&view_op=list_works&sortby=pubdate) ("How do we use Mendelian Randomisation to tell us about what causes human diseases")
 
 ### Day 4: What you see is not what you get?
 
@@ -103,7 +103,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 Guest speaker(s):
 
-- Max Little, University of Birmingham ("Remote monitoring in neurodegenerative diseases")
+- [Max Little, University of Birmingham](http://www.maxlittle.net/home/index.php) ("Remote monitoring in neurodegenerative diseases")
 
 ### Day 5: Group Exercise
 
