@@ -1,10 +1,10 @@
-# HDR003 Real-world experimental methods for health data science
+# HDR003 Experimental methods for health data science
 
 ## Basic Information
 
 Code: HDR003
 
-Title: Real-world experimental methods for health data science
+Title: Experimental methods for health data science
 
 Leader: -
 
