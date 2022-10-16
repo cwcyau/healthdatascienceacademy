@@ -75,7 +75,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 Guest speaker(s):
 
-- David Wong, University of Manchester
+- David Wong, University of Manchester ("How to put together an RCT in practice")
 
 ### Day 3: Nature's experiment
 
@@ -103,7 +103,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 Guest speaker(s):
 
-- Max Little, University of Birmingham
+- Max Little, University of Birmingham ("Remote monitoring in neurodegenerative diseases")
 
 ### Day 5: Group Exercise
 
