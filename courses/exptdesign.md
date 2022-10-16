@@ -75,7 +75,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 Guest speaker(s):
 
-- ???
+- David Wong, University of Manchester
 
 ### Day 3: Nature's experiment
 
@@ -90,7 +90,6 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 Guest speaker(s):
 
 - ???
-- Christopher Yau, University of Oxford
 
 ### Day 4: What you see is not what you get?
 
