@@ -58,6 +58,7 @@ There will be a short group exercise to design an experiment based on a breast s
 
 Guest speaker(s):
 
+- Richard Riley, University of Birmingham
 - Christopher Yau, University of Oxford
 
 ### Day 2: What is the ideal experiment? 
