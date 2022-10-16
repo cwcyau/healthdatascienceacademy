@@ -52,25 +52,73 @@ This first afternoon will give a brief overview of key concepts in:
 - internal vs. external validity; 
 - transportability
 
-The purpose is to get participants up to speed (from whatever discipline they come from) on the key topics in **the scientific method in health sciences**
+The purpose is to get participants up to speed (from whatever discipline they come from) on the key topics in **the scientific method in health sciences** and the motivation for this course.
+
+There will be a short group exercise to design an experiment based on a breast screening scenario.
 
 Guest speaker(s):
 
 - Christopher Yau, University of Oxford
 - David Wong, University of Manchester
 
-**Block 2: Experiments in health research** 
+### Day 2: What is the ideal experiment? 
 
-Medical: retrospective vs. prospective; interventional vs. observational; case-control vs. cohort; longitudinal vs. cross-sectional; protocol; inclusion/exclusion; recruitment; attrition; compliance and adherence; follow-up. Behavioural: sampling strategies; self-report vs. expert assessment; manual vs. automated coding
+The second day will introduce the *randomised control trial* (RCT):
 
-**Block 3: Randomized controlled trials** 
+- Causal interpretation of RCTs: confounding, mediation, latent causes, graphical models; 
+- pre-registration; 
+- blinding; 
+- double-blinding; 
+- complex RCTs: wedges, steps, crossover, multi-step, N-of-1, adaptive, Bayesian
 
-Causal interpretation of RCTs: confounding, mediation, latent causes, graphical models; pre-registration; blinding; double-blinding; complex RCTs: wedges, steps, crossover, multi-step, N-of-1, adaptive, Bayesian
+The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to produce a simulation of an RCT under different scenarios (including those which break the RCT). There will be particular interest in groups simulating scenarios relevant to their area of science.
 
-**Block 4: Experimental design** 
+Guest speaker(s):
 
-Protocol design and implementation; comparison under constraints and unit allocation; combinatorial block designs: BIBD, SBIBD, Latin squares, resolvable designs
+- ???
+
+### Day 3: Nature's experiment
+
+The third day will introduce the concept of *Mendelian Randomisation* (MR):
+
+- basics of genetics: single nucleotide polymorphisms, linkage disequilibrium, heritability;
+- instrument variables in causal inference;
+- causal interpretation of genetic association studies.
+
+The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to produce a simulation of MR under different scenarios within a genetic association (including those which break the MR assumptions). 
+
+Guest speaker(s):
+
+- ???
+- Christopher Yau, University of Oxford
+
+### Day 4: What you see is not what you get?
+
+The fourth day will introduce the concept of *observational studies*:
+
+- rationale for using observational data;
+- the advantages and pitfalls;
+- the risk of bias and possible solutions;
+
+The morning will introduce the basic theory and methods and, in the afternoon, participants will be asked to work in groups to compare the performance of a classification algorithm train and applied to data acquired from a simulation of an RCT and an observational data set.
+
+Guest speaker(s):
+
+- Max Little, University of Birmingham
+
+### Day 5: Group Exercise
+
+The final morning will involve a group exercise where participants are given a scenario and asked to design an experiment. Each group will present findings and the course will end with a keynote speaker.
 
 ## Related courses
 
 ## Recommended Reading
+
+
+**Block 2: Experiments in health research** 
+
+Medical: retrospective vs. prospective; interventional vs. observational; case-control vs. cohort; longitudinal vs. cross-sectional; protocol; inclusion/exclusion; recruitment; attrition; compliance and adherence; follow-up. Behavioural: sampling strategies; self-report vs. expert assessment; manual vs. automated coding
+
+**Block 4: Experimental design** 
+
+Protocol design and implementation; comparison under constraints and unit allocation; combinatorial block designs: BIBD, SBIBD, Latin squares, resolvable designs
