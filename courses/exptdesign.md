@@ -58,8 +58,8 @@ There will be a short group exercise to design an experiment based on a breast s
 
 Guest speaker(s):
 
-- Richard Riley, University of Birmingham
-- Christopher Yau, University of Oxford
+- Richard Riley, University of Birmingham 
+- Christopher Yau, University of Oxford ("How should we go about using Artificial Intelligence in Medicine?")
 
 ### Day 2: What is the ideal experiment? 
 
@@ -89,7 +89,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 
 Guest speaker(s):
 
-- ???
+- ??? ("How do we use Mendelian Randomisation to tell us about what causes human diseases")
 
 ### Day 4: What you see is not what you get?
 
