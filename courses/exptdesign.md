@@ -80,6 +80,7 @@ The morning will introduce the basic theory and methods and, in the afternoon, p
 - [David Wong, University of Manchester](https://personalpages.manchester.ac.uk/staff/david.wong/) ("How to put together an RCT in practice")
 - [Sarah Elison-Davies, Breaking Free Online](https://www.breakingfreegroup.com/research) ("How are we using RCTs to prove the effectiveness of digital interventions?")
 - [Karla Hemming, University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/applied-health/hemming-karla.aspx) ("The stepped wedege trial")
+- [Elin Haf-Davis, Aparito Health](http://www.elinhafdavies.co.uk/)  ("How are we using RCTs to prove the effectiveness of digital interventions?")
 
 ### Day 3: Nature's experiment
 
