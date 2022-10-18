@@ -60,6 +60,10 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 - What are common sources of selection bias? 
 - Can we correct for selection bias? 
 
+|10:30-11:30 |Introduction|
+|11:30-12:30 |Seminar by Brieuc Lehmann|
+
+
 *Reading papers:*
 
 5. Laliberté V, Giguère CE, Potvin S, Lesage A; Signature Consortium (2020). *Berkson's bias in biobank sampling in a specialised mental health care setting: a comparative cross-sectional study.* BMJ Open.
@@ -70,11 +74,14 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 8. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
 
-**14:00-15:30 Algorithmic fairness in healthcare**
+**14:00-17:00 Algorithmic fairness in healthcare**
 
 - What is algorithmic fairness?
 - How do we evaluate algorithmic fairness? 
 - What are the limits of algorithmic solutions? 
+
+|14:00-14:30 | Introduction |
+|14:30-15:30 | Seminar by Claire Coffey, "Algorithmic fairness in cardiovascular disease risk prediction models."|
 
 *Reading papers:*
 
@@ -97,10 +104,12 @@ The second day will be mostly spent working on the task with the help of instruc
 
 | Time | Task |
 | ---- | ---- |
-| 9.30-10.15 | Exploration data analysis |
+| 9.30-10.15 | Exploratory data analysis |
 | 10.30-12.30 | Work on task |
 | 14.00-14.30 | Check-in with instructor |
 | 14.30-16.00 | Work on task |
+| 16.00-17.00 | Webinar by [Emma Pearson](https://www.cs.cornell.edu/~emmapierson/) through DSxHE. 
+
 
 You are free to continue working on your task until the next morning, but will not be given any additional assistance after 4pm. 
 
