@@ -30,7 +30,7 @@ The first part of the training will be largely based around discussions, but par
 
 Students will also need access to the [Nightingale](https://app.nightingalescience.org/projects) data. Nightingale is an open platform for health data but requires registration in advance and approval can take several days, so early registration is required. The platform contains lots of information on existing projects. Students are also advised to complete the MRC [“Research, GDPR and confidentiality”](https://byglearning.com/mrcrsc-lms/course/index.php?categoryid=1) e-learning module (or another equivalent training). 
 
-For those who may be interested in finding out more about fairness in healthcare modelling, the MIT course [“Ethical Machine Learning in Human Deployments”](https://canvas.mit.edu/courses/14219) by Dr. Marzyeh Ghassemi is excellent. 
+For those who may be interested in finding out more about fairness in healthcare modelling, the MIT course [“Ethical Machine Learning in Human Deployments”](https://canvas.mit.edu/courses/14219) by Dr. Marzyeh Ghassemi is excellent. You may also be interested in [Data Science for Health Equity (DSxHE)](https://www.onehealthtech.com/campaigns/data-science-for-health-equity), an independent community that brings together experts, enthusiasts and hobbyists working at the intersection of data science and health inequalities to ensure that the latest research and innovations improve health equity. 
 
 All the group-work programming will be carried out in Python, so knowledge of Python would be preferred but not necessary. 
 
@@ -64,7 +64,7 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 | Time | Task|
 |------|------|
 |10:30-11:30 | Introduction|
-|11:30-12:30 | Seminar by Brieuc Lehmann|
+|11:30-12:30 | Seminar by [Brieuc Lehmann](https://brieuclehmann.github.io/)|
 
 
 *Reading papers:*
@@ -77,7 +77,7 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 8. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
 
-**14:00-17:00 Algorithmic fairness in healthcare**
+**14:00-16:00 Algorithmic fairness in healthcare**
 
 - What is algorithmic fairness?
 - How do we evaluate algorithmic fairness? 
@@ -87,6 +87,7 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 |------|------|
 |14:00-14:30 | Introduction |
 |14:30-15:30 | Seminar by Claire Coffey, "Algorithmic fairness in cardiovascular disease risk prediction models."|
+|15:30-16:00 | Discussion and introduction to Day 2 task|
 
 *Reading papers:*
 
@@ -100,8 +101,6 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 13.  Margrét Vilborg Bjarnadóttir and David Anderson (2020). *Machine Learning in Healthcare: Fairness, Issues, and Challenges.* Pushing the Boundaries: Frontiers in Impactful OR/OM Research. 64-83.
 
-
-**15.30-16.00: Summary and introduction to Day 2 task.**
 
 ### Day 2: Group work
 
