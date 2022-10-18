@@ -8,6 +8,7 @@
 | Title | Fairness in healthcare modelling |
 | Leader | [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/) |
 | Duration | 3 days |
+| Dates | 9-11 November 2022|
 
 ## Description
 
@@ -60,8 +61,10 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 - What are common sources of selection bias? 
 - Can we correct for selection bias? 
 
-|10:30-11:30 |Introduction|
-|11:30-12:30 |Seminar by Brieuc Lehmann|
+| Time | Task|
+|------|------|
+|10:30-11:30 | Introduction|
+|11:30-12:30 | Seminar by Brieuc Lehmann|
 
 
 *Reading papers:*
@@ -80,6 +83,8 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 - How do we evaluate algorithmic fairness? 
 - What are the limits of algorithmic solutions? 
 
+| Time | Task|
+|------|------|
 |14:00-14:30 | Introduction |
 |14:30-15:30 | Seminar by Claire Coffey, "Algorithmic fairness in cardiovascular disease risk prediction models."|
 
