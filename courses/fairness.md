@@ -114,8 +114,7 @@ The second day will be mostly spent working on the task with the help of instruc
 | 14.30-16.00 | Work on task |
 | 16.00-17.00 | Webinar by [Emma Pearson](https://www.cs.cornell.edu/~emmapierson/) through DSxHE. 
 
-
-You are free to continue working on your task until the next morning, but will not be given any additional assistance after 4pm. 
+We don't expect participants to continue working on the task past 4pm. 
 
 ### Day 3: Evaluation
 
