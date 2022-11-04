@@ -24,7 +24,7 @@ The aim of this training is to cover the basic principles of fairness in healthc
 
 ### Teaching methods
 
-The first part of the training will be largely based around discussions, but participants are expected to have read 4-5 of the key papers in this area that are listed below. In the second part, participants will be split into groups and work on a task. 
+The first part of the training will be largely based around discussions, but participants are expected to have read 4-5 of the key papers in this area (at least one from set) that are listed below. In the second part, participants will be split into groups and work on a task. 
 
 ## Pre-requisites
 
